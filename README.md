@@ -15,10 +15,12 @@ Use the SQL file **blank.sql** to import the tables into your database. Two defa
 **User Account**
 
 **Email**: user@user.com
+
 **Password**: useruser
 
 
 **Admin Account**
 
 **Email**: admin@admin.com
+
 **Password**: adminadmin
