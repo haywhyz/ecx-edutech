@@ -10,7 +10,7 @@ It features:
 
 These pages don't have any actual content, they are only there to serve as a template.
 
-Use the SQL file **blank.sql** to import the tables into your database. Two default accounts have already been set up. Use the following account details to login as the default user/admin.
+Place this app in the "htdocs" folder of your Xampp or Wampp and run it directly from your localhost. Use the SQL file **blank.sql** to import the tables into your database. Two default accounts have already been set up. Use the following account details to login as the default user/admin.
 
 **User Account**
 
