@@ -19,6 +19,7 @@ Use the SQL file **blank.sql** to import the tables into your database. Two defa
 **Password**: useruser
 
 
+
 **Admin Account**
 
 **Email**: admin@admin.com
