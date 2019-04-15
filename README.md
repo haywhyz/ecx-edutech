@@ -10,17 +10,15 @@ It features:
 
 These pages don't have any actual content, they are only there to serve as a template.
 
-Use the SQL file to import the tables into your database. Two default accounts have already been set up. Use the following account details to login as the default user/admin.
+Use the SQL file **blank.sql** to import the tables into your database. Two default accounts have already been set up. Use the following account details to login as the default user/admin.
 
 **User Account**
 
-Email: user@user.com
-
-Password: useruser
+**Email**: user@user.com
+**Password**: useruser
 
 
 **Admin Account**
 
-Email: admin@admin.com
-
-Password: adminadmin
+**Email**: admin@admin.com
+**Password**: adminadmin
