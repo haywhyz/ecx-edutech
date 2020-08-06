@@ -34,9 +34,4 @@ class UserController extends Controller
         return view('user.home')->with('name', $user->name);
     }
 
-    public function category($type = null){
-        
-        return view('category')->with('type',$type);
-    }
-
 }

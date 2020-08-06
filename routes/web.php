@@ -23,7 +23,12 @@ Route::prefix('admin')->group(function(){
 	Route::get('/login', 'Auth\AdminLoginController@showLoginForm')->name('admin.login');
 	Route::post('/login', 'Auth\AdminLoginController@login')->name('admin.login.submit');
 	Route::get('/home', 'AdminController@index')->name('admin.dashboard');
+	Route::get('/payments', 'AdminController@payments')->name('admin.payments');
+	Route::get('/resources', 'AdminController@resources')->name('admin.resources');
+	Route::get('/courses', 'AdminController@courses')->name('admin.courses');
+
 	Route::get('/logout', 'Auth\AdminLoginController@logout')->name('admin.logout');
+
 
 	// Password Reset Routes
 
